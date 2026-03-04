@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "tylerebowers@gmail.com",
+                "Name": "Tylerebowers"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "Fedora Linux Splash Screen For Plasma 6",
+        "Id": "Simple-Tux",
+        "License": "GPLv3",
+        "Name": "Simple Tux",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
