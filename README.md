@@ -1,6 +1,6 @@
 # Plasma-Tux-Splashscreen
  
-Simple Tux splash screen using a simple tux logo.
+Simple Tux splash screen using a flat tux logo.
 
 https://store.kde.org/p/2350483
  
